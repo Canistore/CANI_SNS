@@ -112,7 +112,7 @@ Token:
     symbol: CANI
 
     # SNS ledger transaction fee.
-    transaction_fee: 100_000 e8s
+    transaction_fee: 10_000 e8s
 
     # Path to the SNS token logo on your local filesystem. The path is relative
     # to the configuration file location, unless an absolute path is given.
@@ -368,7 +368,7 @@ Swap:
         # many neurons will be in each participant's neuron basket. Note that
         # the first neuron in each neuron basket will have zero dissolve delay.
         # This value should thus be greater than or equal to `2`.
-        events: 30
+        events: 4
 
         # The interval at which the schedule will be increased per event. The
         # first neuron in the basket will be unlocked with zero dissolve delay.
@@ -381,7 +381,7 @@ Swap:
         # neurons. While neuron basket neurons do not use `vesting_period`, they
         # have a vesting schedule. This field is specified as a duration. For
         # example: "1 month".
-        interval: 1 month
+        interval: 6 month
 
     # Absolute time of day when the decentralization swap is supposed to start.
     #
