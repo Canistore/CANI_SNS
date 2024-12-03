@@ -15,7 +15,7 @@ logo: logo.png
 
 # URL to the dapp controlled by the SNS project.
 # Must be a string from 10 to 512 bytes.
-url: https://canistore.app/
+url: https://canisafe.app/
 
 # Metadata for the NNS proposal required to create the SNS. This data will be
 # shown only in the NNS proposal.
@@ -133,7 +133,7 @@ Proposals:
     # "4 days".
     initial_voting_period: 3 days
 
-    maximum_wait_for_quiet_deadline_extension: 2 day
+    maximum_wait_for_quiet_deadline_extension: 1 day
 
 # Configuration of SNS voting.
 Neurons:
