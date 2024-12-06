@@ -15,7 +15,7 @@ logo: logo.png
 
 # URL to the dapp controlled by the SNS project.
 # Must be a string from 10 to 512 bytes.
-url: https://canisafe.app/
+url: https://canisafe.app
 
 # Metadata for the NNS proposal required to create the SNS. This data will be
 # shown only in the NNS proposal.
@@ -62,11 +62,11 @@ NnsProposal:
         **IV. Verification**
         
         The above details can be verified through:
-        * Whitepaper: https://docs.canistore.io/
-        * Github: https://github.com/Canistore/CANI_DAPP/
-        * Product: https://canistore.app/, https://canistore.app/, https://caniplay.app/
-        * Product video: https://###.com/###/
-        * Main website: https://canistore.io/
+        * Whitepaper: https://docs.canistore.io
+        * Github: https://github.com/Canistore/CANI_DAPP
+        * Product: https://canistore.app, https://canistore.app, https://caniplay.app
+        * Product video: https://www.youtube.com/watch?v=5iXrPFOG7q0
+        * Main website: https://canistore.io
 
 # If the SNS launch attempt fails, control over the dapp canister(s) is given to
 # these principals. In most use cases, this is chosen to be the original set of
@@ -164,10 +164,6 @@ Voting:
         # reward this long-term commitment, this bonus can be set to a
         # percentage greater than zero, which will result in neurons having
         # their voting power increased in proportion to their dissolve delay.
-        #
-        # If you do not want this bonus to be applied for neurons with higher
-        # dissolve delay, set `bonus` to `0%` and those neurons will not receive
-        # higher voting power.
         DissolveDelay:
             # This parameter sets the maximum dissolve delay a neuron can have.
             # When reached, the maximum dissolve delay bonus will be applied.
@@ -218,9 +214,6 @@ Voting:
     #
     # Setting both `initial` and `final` to `0%` will result in the system not
     # distributing voting rewards at all.
-    #
-    # More details on SNS tokenomics can be found in the developer documentation:
-    # https://internetcomputer.org/docs/current/developer-docs/integrations/sns/tokenomics/rewards/#voting-rewards
     RewardRate:
         # The initial reward rate at which the SNS voting rewards will increase
         # per year. This field is specified as a percentage. For example: "15%".
