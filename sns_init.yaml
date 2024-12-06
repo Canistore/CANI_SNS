@@ -275,7 +275,7 @@ Distribution:
         - principal: oepud-5vgw3-wrhlf-ji3m7-k2xgn-xmuuv-62pyh-xtmki-gbkgu-nbq2u-7ae
           stake: 50_000_000 tokens
           memo: 1
-          dissolve_delay: 2 month
+          dissolve_delay: 1 month
           vesting_period: 3 years
         - principal: rxafe-5wsfl-tapz2-wqgdv-nl45u-abif2-37yir-w7r4m-7txgd-vuimx-cae
           stake: 47_000_000 tokens
