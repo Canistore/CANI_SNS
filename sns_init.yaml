@@ -280,7 +280,7 @@ Distribution:
         - principal: rxafe-5wsfl-tapz2-wqgdv-nl45u-abif2-37yir-w7r4m-7txgd-vuimx-cae
           stake: 47_000_000 tokens
           memo: 2
-          dissolve_delay: 2 month
+          dissolve_delay: 1 month
           vesting_period: 3 years
         - principal: iwfcd-bqvwt-bbcnu-bf3ah-7hijl-bd7lu-rprkc-zpcyo-yhlwm-ot5zi-gqe
           stake: 3_000_000 tokens
