@@ -24,51 +24,51 @@ NnsProposal:
 
     # The description of the proposal.
     summary: >
-        # CANI ECOSYSTEM
-        *dApps*
-        Blockchain Broadcast Station: [CaniPlay](https://caniplay.app)
-        Secure Data Management: [CaniSafe](https://canisafe.app)
-        Licensing Protocol: [CaniStore](https://canistore.app)
+      # CANI ECOSYSTEM
+      *dApps*
+      Blockchain Broadcast Station: [CaniPlay](https://caniplay.app)
+      Secure Data Management: [CaniSafe](https://canisafe.app)
+      Licensing Protocol: [CaniStore](https://canistore.app)
         
-        *(Open the links above on mobile device)*
+      *(Open the links above on mobile device)*
         
-        ---
+      ---
                 
-        ## Summary
+      ## Summary
         
-        ### Token Distribution
+      ### Token Distribution
                 
-        1. **Allocated to Treasury | 63%**
-            - **Treasury (30%)**
-            - **Investors (10%)**
-            - **Club Cani (13%)**
-            - **Marketing and rewards (10%)**
-        2. **Allocated to SNS Swap | 20%** 
-        3. **Team & Advisors | 17%**
+      1. **Allocated to Treasury | 63%**
+         - **Treasury (30%)**
+         - **Investors (10%)**
+         - **Club Cani (13%)**
+         - **Marketing and rewards (10%)**
+      2. **Allocated to SNS Swap | 20%** 
+      3. **Team & Advisors | 17%**
                 
-        More about [tokenomics](https://canistore.io/tokenomics/)  
+      More about [tokenomics](https://canistore.io/tokenomics/)  
                 
-        ### Governance
-        The governance model includes staking, voting, and other relevant details.
-        The minimum amount of SNS tokens to stake a neuron is 50 tokens. 
+      ### Governance
+      The governance model includes staking, voting, and other relevant details.
+      The minimum amount of SNS tokens to stake a neuron is 50 tokens. 
         
-        Decentralization Sale
+      Decentralization Sale
         - **Min participation - 1 ICP**
         - **Min participants - 10**
         - **Min to be raised - 10,000 ICP**
         - **Max to be raised - 50,000 ICP**
         
-        ---
+      ---
             
-        ### More information
-        - [X.com](https://x.com/canistore)
+      ### More information
+      - [X.com](https://x.com/canistore)
             
-        The details can be verified through:
-        - [Launch video](https://x.com/canistore/status/1866138182607139186)
-        - [Product walkthrough](https://x.com/canistore/status/1861067864918069618)
-        - [Whitepaper](https://docs.canistore.io)
-        - [Github](https://github.com/Canistore/CANI_DAPP)
-        - [Main website](https://canistore.io/)
+      The details can be verified through:
+      - [Launch video](https://x.com/canistore/status/1866138182607139186)
+      - [Product walkthrough](https://x.com/canistore/status/1861067864918069618)
+      - [Whitepaper](https://docs.canistore.io)
+      - [Github](https://github.com/Canistore/CANI_DAPP)
+      - [Main website](https://canistore.io/)
 
 # Controller principals
 fallback_controller_principals:
